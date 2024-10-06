@@ -1,0 +1,234 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1280"
+                },
+                "element_image": {
+                    "size": "1000x1070"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "btn_name": "text",
+            "btn_url": "text"
+        }
+    },
+    "about": {
+        "builder": true,
+        "name": "About Us",
+        "content": {
+            "images": {
+                "about_image": {
+                    "size": "460x415"
+                }
+            },
+            "heading": "text",
+            "description": "textarea"
+        }
+    },
+    "breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcrumb",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x200"
+                }
+            }
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "how_to_work": {
+        "builder": true,
+        "name": "How to work",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "title": "text",
+            "modal": true
+        }
+    },
+    "service": {
+        "builder": true,
+        "name": "Service Section",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "description": "textarea",
+            "modal": true
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "images": {
+                "faq_image": {
+                    "size": "990x780"
+                }
+            },
+            "heading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "images": {
+                "client_image": {
+                    "size": "450x475"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "testimonial": "textarea",
+            "modal": false
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Section",
+        "content": {
+            "description": "text"
+        }
+    },
+    "subscriber": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Subscriber Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "counter": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Counter Content",
+        "element": {
+            "counter_digit": "text",
+            "title": "text",
+            "modal": true
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+    "plan": {
+        "builder": true,
+        "name": "Plan Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "btn_name": "text",
+            "btn_url": "text"
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "images": {
+                "blog_image": {
+                    "size": "960x640",
+                    "thumb": "384x256"
+                }
+            },
+            "title": "text",
+            "description_nic": "textarea-nic",
+            "modal": false
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "title": "text",
+            "email_address": "text",
+            "contact_details": "text",
+            "contact_number": "text",
+            "map_embed_link": "text"
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "660x450"
+                }
+            }
+        }
+    },
+    "register": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Register Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "660x450"
+                }
+            }
+        }
+    },
+    "activation": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Activation Notice",
+        "content": {
+            "activation_notice": "textarea",
+            "pending_notice": "textarea"
+        }
+    },
+    "kyc_info": {
+        "builder": true,
+        "no_selection": true,
+        "name": "KYC Information",
+        "content": {
+            "verification_content": "textarea",
+            "pending_content": "textarea"
+        }
+    }
+}
